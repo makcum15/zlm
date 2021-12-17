@@ -1,4 +1,4 @@
-.u-section-1 {
+ .u-section-1 {
   background-image: none;
 }
 
@@ -46,7 +46,6 @@
 
 .u-section-1 .u-group-1 {
   min-height: 205px;
-  height: auto;
   width: 980px;
   margin: 8px auto;
 }
@@ -70,7 +69,6 @@
 
   .u-section-1 .u-group-1 {
     width: 940px;
-    height: auto;
   }
 }
 
