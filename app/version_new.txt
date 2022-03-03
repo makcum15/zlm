@@ -1,5 +1,5 @@
-Version=2.7.1
-2.7.1 - Changed algorithm for creating shortcuts for the web client. Module for checking new versions was updated.
-Unfortunately, I had to temporarily disable icon selection when creating a shortcut. But you can choose the icon in the shortcut properties.
-2.7 - Added start of conferences via web browser (useful if Zoom is not installed), Added support for Unicode
-2.6.2 - Bug fixes
+Version=3.0.2
+3.0.2* - Optimization and minor corrections.
+3.0.1* - Changed algorithm for creating shortcuts for the web client. Module for checking new versions was updated.
+3.0* - Added start of conferences via web browser (useful if Zoom is not installed), Added support for Unicode
+*Unfortunately, I had to temporarily disable icon selection when creating a shortcut. But you can choose the icon in the shortcut properties.
