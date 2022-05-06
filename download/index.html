@@ -1,0 +1,9 @@
+	<script>
+	function LanguageInfo(){
+      var n = navigator;
+      this.UALanguage = n.language ? n.language : n.browserLanguage ? n.browserLanguage : null;
+      this.userLanguage = n.userLanguage ? n.userLanguage : n.systemLanguage ? systemLanguage : null; 
+}
+	var oLanguage = new LanguageInfo(); 
+location.replace((oLanguage.userLanguage == "ru" || oLanguage.UALanguage == "ru") ? "../download_ru.html" : "../download_en.html");	
+	</script>
