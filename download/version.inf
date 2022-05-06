@@ -1,5 +1,7 @@
-Version=3.1.1
+<version>3.1.1</version>
+<changelog>
 3.1.1* - Bug with JS error window display fixed
 3.1* - Status window when you start a meeting.
 3.0.2* - Optimization and minor corrections.
 *Unfortunately, I had to temporarily disable icon selection when creating a shortcut. But you can choose the icon in the shortcut properties.
+</changelog>
