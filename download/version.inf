@@ -1,9 +1,9 @@
 <version>3.1.1</version>
 <changelog>
-3.1.1* - Bug with JS error window display fixed
-3.1* - Status window when you start a meeting.
-3.0.2* - Optimization and minor corrections.
-3.0.1* - Changed algorithm for creating shortcuts for web client. New versions checking module has been updated.
-3.0* - Added meeting launcher for web browsers (useful if you don't have Zoom installed), Added Unicode support.
-*Unfortunately, I had to temporarily disable icon selection when creating a shortcut. But you can choose the icon in the shortcut properties.
+3.2 - Fixed Unicode
+3.1.1 - Bug with JS error window display fixed
+3.1 - Status window when you start a meeting.
+3.0.2 - Optimization and minor corrections.
+3.0.1 - Changed algorithm for creating shortcuts for web client. New versions checking module has been updated.
+3.0 - Added meeting launcher for web browsers (useful if you don't have Zoom installed), Added Unicode support.
 </changelog>
