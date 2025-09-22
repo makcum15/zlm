@@ -1,6 +1,7 @@
 <version>4.1</version>
 <changelog>
-4.1 - Fix update
+4.0.1 - Fix update
 4.0 - Fixed meeting startup. The main program module was rewritten in Python.
 3.2 - Fixed Unicode
 </changelog>
+
