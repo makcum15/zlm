@@ -1,8 +1,10 @@
-<version>4.0.1</version>
+<version>4.0.2</version>
 <changelog>
+4.0.2 - Rewrote zlmwc.exe in Python.
 4.0.1 - Fix update
 4.0 - Fixed meeting startup. The main program module was rewritten in Python.
 3.2 - Fixed Unicode
 </changelog>
+
 
 
